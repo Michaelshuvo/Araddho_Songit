@@ -1,0 +1,181 @@
+<resources>
+    <string name="search_hint">গানের নাম দিয়ে খুঁজুন</string>
+
+    <string name="app_name">আরাধ্য সঙ্গীত</string>
+    <string name="button1">প্রশংসা সঙ্গীত</string>
+    <string name="button1sub">এ.জি চার্চ</string>
+    <string name="button2">খ্রিষ্ট সঙ্গীত</string>
+    <string name="button2sub">ব্যাপ্টিস্ট চার্চ</string>
+    <string name="button3">সেবক সঙ্গীত</string>
+    <string name="button3sub">ব্যাপ্টিস্ট চার্চ</string>
+    <string name="button4">নতুন প্রজন্মের গান</string>
+    <string name="button4sub">আন্তঃমণ্ডলীয় গান</string>
+    <string name="button5">প্রৈরিতিক বিশ্বাস সূত্র</string>
+    <string name="button6">প্রভুর প্রার্থনা</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_splash">splash</string>
+
+    <!--sidebar string-->
+    <string name="home">হোম</string>
+    <string name="share">শেয়ার</string>
+    <string name="fivestar">৫ স্টার রেট</string>
+    <string name="bookmarks">বুকমার্ক</string>
+    <string name="about_us">আমাদের পরিচিতি</string>
+    <string name="contac">যোগাযোগ</string>
+    <string name="settings">সেটিংস</string>
+    <string name="Follow">Follow Us</string>
+    <string name="facebook">Facebook</string>
+    <string name="Google">Google</string>
+    <string name="twitter">Twitter</string>
+    <!--Tab layout string-->
+    <string name="subject">বিষয়সূচি</string>
+    <string name="index">সূচীপত্র</string>
+
+    <!--Toast text -->
+    <string name="not_available">দুঃখিত,কোন তথ্য নেই।	</string>
+
+
+    <!---About us -->
+    <string name="desginer">Andreas Simson</string>
+    <string name="occ">Graphic Designer</string>
+    <string name="developer">Michael Karmoker</string>
+    <string name="occ2">Android App Developer</string>
+    <string name="help">সহযোগিতায়</string>
+    <string name="helpName">বাংলাদেশ এ্যাসেমব্লীজ অব্ গড চার্চ</string>
+
+    <string name="lyrics"> মিশ্র-আড়াঠেকা।
+
+	এস হে করুণাময়, বিরাজ হৃদয়াসনে,
+	পূজিতে তোমারে আজি, বাসনা সবার মনে।
+
+১।	তব দাস দাসী যত, হইয়াছি সমবেত,
+	তৃপ্ত কর সবে পিতঃ মনোমত আশিস্ দানে।
+
+২।	অর্পিতে পদে তোমার, আনিয়াছি উপহার,
+	ভকতি-কুসুম হার, লহ নাথ নিজ গুণে।</string>
+
+
+    <string-array name="listofalphabate">
+        <item>অ</item>
+        <item>আ</item>
+        <item>ই</item>
+        <item>ঈ</item>
+        <item>উ</item>
+        <item>ঊ</item>
+        <item>এ</item>
+        <item>ঐ</item>
+        <item>ও</item>
+        <item>ক</item>
+        <item>খ</item>
+        <item>গ</item>
+        <item>ঘ</item>
+        <item>ছ</item>
+        <item>চ</item>
+        <item>জ</item>
+        <item>ত</item>
+        <item>দ</item>
+        <item>ধ</item>
+        <item>ন </item>
+        <item>প</item>
+        <item>ফ</item>
+        <item>ব</item>
+        <item>ভ</item>
+        <item>ম</item>
+        <item>য</item>
+        <item>র</item>
+        <item>ল</item>
+        <item>শ</item>
+        <item>স</item>
+        <item>হ</item>
+
+
+    </string-array>
+
+    <string-array name="listofalphabate2">
+        <item>b</item>
+        <item>b</item>
+        <item>c</item>
+        <item>d</item>
+        <item>d</item>
+        <item>d</item>
+        <item>d</item>
+        <item>d</item>
+        <item>d</item>
+        <item>d</item>
+        <item>d</item>
+        <item>d</item>
+        <item>d</item>
+        <item>d</item>
+        <item>d</item>
+        <item>d</item>
+        <item>d</item>
+        <item>d</item>
+        <item>d</item>
+        <item>d</item>
+        <item>d</item>
+        <item>d</item>
+        <item>d</item>
+        <item>d</item>
+        <item>d</item>
+        <item>d</item>
+        <item>d</item>
+    </string-array>
+    <string-array name="subjects">
+        <item>আবহ সঙ্গীত</item>
+        <item>প্রভাতী ও সান্ধ্যকালীন আরাধনা</item>
+        <item>ধন্যবাদ ও প্রশংসা</item>
+        <item>যীশুর মহত্ব</item>
+        <item>খ্রীষ্টিয় মন্ডলী</item>
+        <item>বিশ্বাসীর জীবন</item>
+        <item>আত্নোৎসর্গ</item>
+        <item>পবিত্র আত্মা</item>
+        <item>ঈশ্বরের বাক্য</item>
+        <item>প্রার্থনা</item>
+        <item>দান ও উপহার</item>
+        <item>প্রচার ও সাক্ষ্য	</item>
+        <item>অবগাহন ও প্রভুর ভোজ</item>
+        <item>বিবাহ, বিদায় ও নারী</item>
+        <item>শিশু উৎসর্গ ও শিশু সঙ্গীত</item>
+        <item>বিচার, মৃত্যু ও স্বর্গ </item>
+        <item>যীশুর জন্মগীতি ও নববর্ষ</item>
+        <item>যীশুর প্রায়শ্চিত্ত ও পরিত্রাণ</item>
+        <item>যীশুর বিজয়যাত্রা, দুঃখভোগ ও মৃত্যু</item>
+        <item>পুনরত্থান ও স্বর্গরোহন</item>
+        <item>যীশুর পুনরাগমন</item>
+        <item>বাংলা কোরাস</item>
+        <item>শাস্ত্র সঙ্গীত</item>
+        <item>ইংরেজী কোরাস</item>
+        <item>স্বদেশ ও বিবিধ</item>
+
+    </string-array>
+    <string-array name="subjects_number">
+        <item>১-১৬</item>
+        <item>১৭-৩৩</item>
+        <item>৩৪-৮১</item>
+        <item>৮২-১৩৯</item>
+        <item>১৪০-১৪২</item>
+        <item>১৪৩-১৯৪</item>
+        <item>১৯৫-২২৮</item>
+        <item>২২৯-২৩৭</item>
+        <item>২৩৮-২৪৬</item>
+        <item>২৪৭-২৮৪</item>
+        <item>২৮৫-২৯৩</item>
+        <item>২৯৩-৩৫২</item>
+        <item>৩৫৩-৩৬৪</item>
+        <item>৩৬৫-৩৭১</item>
+        <item>৩৭২-৪০৬</item>
+        <item>৪০৭-৪৩৭</item>
+        <item>৪৩৮-৫১১</item>
+        <item>৫১২-৫৩৪</item>
+        <item>৫৩৫-৫৫২</item>
+        <item>৫৫৩-৫৭২</item>
+        <item>৫৭৩-৫৮৬</item>
+        <item>৫৮৭-৭৯০</item>
+        <item>৭৯১-৮৫০</item>
+        <item>৮৫১-৮৯৭</item>
+        <item>৮৯৮-৯২৫</item>
+    </string-array>
+    <string name="testingtext">এস এস প্রাণের যীশু,  আজ তোমারে পূজিব,</string>
+
+</resources>

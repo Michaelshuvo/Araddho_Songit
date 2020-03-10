@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="330dp"
+    android:layout_gravity="center"
+    android:background="@color/bluedeep"
+    android:orientation="vertical"
+    android:weightSum="2">
+    <TextView
+        android:id="@+id/cross"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:layout_margin="3dp"
+        android:text="X"
+        android:layout_gravity="end"
+        android:background="@drawable/shapeofcross"/>
+    <LinearLayout
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp">
+        <GridView
+            android:id="@+id/vowel"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:columnWidth="40dp"
+            android:verticalSpacing="1dp"
+            android:horizontalSpacing="1dp"
+            android:stretchMode="columnWidth"
+            android:gravity="center"
+            android:numColumns="auto_fit">
+
+        </GridView>
+
+
+
+    </LinearLayout>
+    <LinearLayout
+
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        >
+        <GridView
+            android:id="@+id/consonant"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </GridView>
+
+
+    </LinearLayout>
+
+</LinearLayout>
